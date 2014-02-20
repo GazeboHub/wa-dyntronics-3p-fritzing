@@ -1,0 +1,6 @@
+[submodule "tree/fritzing-library-adafruit"]
+	path = tree/fritzing-library-adafruit
+	url = git@github.com:adafruit/Fritzing-Library.git
+[submodule "tree/fritzing"]
+	path = tree/fritzing
+	url = https://code.google.com/p/fritzing/
